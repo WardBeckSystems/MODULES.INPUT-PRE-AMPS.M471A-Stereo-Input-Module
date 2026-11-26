@@ -37,7 +37,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Title block:** (347, 0)–(432, 36) mm: REviSIOM · WBS WARD-BeCk syBTeMS · 8 - 109 8 · ENG MRW · booster AMPLifieR · SCHEMATIC · SCALE · 8-109-02-003
 - **Wiring (first pass):** 51 connected wire groups from 380 runs; labelled ends: 205 mm → E3, Ris, 22, Ri7; 196 mm → R23, 4k7; 147 mm → R32, 6.8, R35, R33; 147 mm → Rzo, 6*8, R34, R3i; 142 mm → Lf3s6, IBv, c4, 10/25
 
-Every curve, box, word and wire group: [1978 - 8-109-02-003 - 8-109B BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-003%20-%208-109B%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-003 - 8-109B BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-003 - 8-109B BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-003%20-%208-109B%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-003 - 8-109B BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

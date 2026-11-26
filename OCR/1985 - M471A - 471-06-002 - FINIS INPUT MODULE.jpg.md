@@ -21,7 +21,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Words (OCR):** 101 in 90 lines: cc · 340 · Cbt · 17 · Icb- · Cist · 68@ · R56 · R58 · R5 | R59 Rss · 22 R78 · 49
 - **Title block:** (121, 5)–(356, 225) mm: 21 · WBS · 0-005 · Lh458 · Zei · ~264 LSk · 4BS · Ri · R3tr4 · WBS · ~Bs · 4-123 · 0-005 · Sw9 · Sw · Ll · WBS · "0z · R3 · 267 · R3 · Sw · 22/25 · 235_ 22/2;_ · 2-882 WB $ · ~002 · 22/282 · FCB · Ow 
 
-Every curve, box, word and wire group: [1985 - M471A - 471-06-002 - FINIS INPUT MODULE (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%20471-06-002%20-%20FINIS%20INPUT%20MODULE%20(traced).json) (the CAD file: `1985 - M471A - 471-06-002 - FINIS INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 471-06-002 - FINIS INPUT MODULE (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%20471-06-002%20-%20FINIS%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1985 - M471A - 471-06-002 - FINIS INPUT MODULE (traced).dxf`).
 
 ## Full text
 

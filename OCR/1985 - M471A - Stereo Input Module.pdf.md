@@ -22,7 +22,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Words (OCR):** 12 in 6 lines: WARD-BECK SYSTEMS LTD_ · WES 841 PACGPESS AVENUE; SCAABOPOLGH; ONTAAIO M1h2x4 · Telex 065-25399 · TELEPHCNE 416,438-6550 · M47IA · STErEO INPUT MODULE
 - **Title block:** (108, 394)–(257, 419) mm: WARD-BECK SYSTEMS LTD_ · WES 841 PACGPESS AVENUE; SCAABOPOLGH; ONTAAIO M1h2x4 · Telex 065-25399 · TELEPHCNE 416,438-6550
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p1 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p1%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p1 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p1 (t
 - **Words (OCR):** 76 in 51 lines: WAAD-BECX SysteMS LTD · TABLE · OFCONTENTS · MLZIA STEREO inPuT MODULE · SECTION · PAGE · Warranty · Technical Data · T-1 · Circuit Description · 2-1 to · 2-2
 - **Title block:** (25, 39)–(277, 423) mm: WAAD-BECX SysteMS LTD · TABLE · OFCONTENTS · MLZIA STEREO inPuT MODULE · SECTION · PAGE · Warranty · Technical Data · T-1 · Circuit Description · 2-1 to · 2-2 · Parts List · 3-1 to · 3-3 · Appendix · 
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p2 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p2%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p2 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p2 (t
 - **Dots (junctions):** 3
 - **Words (OCR):** 134 in 68 lines: WARD-BECK SYSTEms LTD; · TECHNICAL DATA · M47IA · STEREO INPUT · MODULE · Input · Sensitivity · dBm · (ref 600 ohm source} · Frequency Response: · +/-0.25 dB from 20 Hz 20 kHz · to
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p3 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p3%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p3 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -52,7 +52,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p3 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 326 in 144 lines: WAAD-BECK systems LTD. · CIRcuIT DESCRIPTION · ML71A STEREO inPUT MODULE · The M471A Stereo · Input Module i5 · designed to accept · stereo · Iine level · The unit processes · the · input signal as · required and routes
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p4 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p4%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p4 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -61,7 +61,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p4 (t
 - **Outlines:** line 43 rings, 843 straight (3,794 mm) / 93 curved (144 mm); text 1,101 rings, 8,134 straight (9,126 mm) / 2,436 curved (3,795 mm)
 - **Words (OCR):** 163 in 66 lines: WAAD-BECK SyStems LTD, · CiRcuIT DESCRIPTION · STEREO [NPUT MODULE · M47IA · PRE/PosT SELECTOR · SWITCHES AND LEVEL · CONTROLS · Switch Sw9 acts as · the pre/post selector · for the · AuX output, · with
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p5 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p5%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p5 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -71,7 +71,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p5 (t
 - **Words (OCR):** 111 in 99 lines: WAAD-BECK systems LTD_ · PARTS List · ML7IA STEREO · INPUT MODULE · PART · DESCR IPTION · MFG · MFG · PART NUMBER · C1 · Capacitor 22 · uF/25
 - **Title block:** (22, 54)–(270, 423) mm: WAAD-BECK systems LTD_ · PARTS List · ML7IA STEREO · INPUT MODULE · PART · DESCR IPTION · MFG · MFG · PART NUMBER · C1 · Capacitor 22 · uF/25 · Philips · 426ETF22 · C2 · uF/25 · 22 · C3 · 22 · uF/25 ·
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p6 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p6%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p6 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p6 (t
 - **Words (OCR):** 92 in 78 lines: WAAD-BECX Systems LTD; · PARTS · LIST · ML7IA · STEREO · INPUT MQDULE · PART DESCRIPTION · MFG · MFG PART NUMBER · RS) · Potentiometer , quad · A/B
 - **Title block:** (76, 301)–(246, 422) mm: WAAD-BECX Systems LTD; · PARTS · LIST · ML7IA · STEREO · INPUT MQDULE · PART DESCRIPTION · MFG · Potentiometer , quad · A/B · WBS 10-002
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p7 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p7%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p7 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p7 (t
 - **Words (OCR):** 103 in 83 lines: WAAD-BECK · Systems LTD · PARTS LiST · M471A STEREO INPUT · MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · R69 · Resistor · 1/4w
 - **Title block:** (21, 41)–(246, 423) mm: WAAD-BECK · Systems LTD · PARTS LiST · M471A STEREO INPUT · MODULE · PART DESCRIPTION · MFG · MFG PART · R69 · Resistor · 1/4w · 15K · Philips · R70 · 15k · R71 · 1Sk · R72 · delete · R73 · delete · R
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p8 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p8%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p8 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p8 (t
 - **Words (OCR):** 175 in 96 lines: WAAD-BECK SYSTEMS LTD · DESCRIPTION · 8-109 AMPLLEIER_SERIES · The 8-109 series 0 f · amplifiers are · utilized · an · internal · component · within various WBS series 0 f audio conso ]e · modules · 8-109
 - **Title block:** (24, 308)–(166, 426) mm: WAAD-BECK SYSTEMS LTD · The 8-109 series 0 f · amplifiers are · component · 8-109 · amplifier mounts as · Each
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p9 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p9%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p9 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p9 (t
 - **Dots (junctions):** 2
 - **Words (OCR):** 236 in 105 lines: WAAD-BECK SysTems LTD · DESCRIPTION · 8-109 AMPLIFLER_SERIES · Output Impedance: · Less than · 100   ohms · Load · Impedance: · 600 ohms , ba lanced · Output Level : · +30 dBm · maximum_
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p10 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p10%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p10 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -121,7 +121,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p10 (
 - **Outlines:** line 32 rings, 582 straight (2,917 mm) / 76 curved (117 mm); text 244 rings, 2,004 straight (2,404 mm) / 602 curved (940 mm)
 - **Words (OCR):** 33 in 15 lines: WAAD-BECK SySTEMS LTD · DESCRIPTION · 8-109 · AMPLLELER_SERIES · inverting amplifier with · El externally strapped E6 _ · to · The output 0 f a 11 · models 0 f the 8-109 · series is actively · ba lanced and is · brought out at
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p11 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p11%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p11 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -133,7 +133,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p11 (
 - **Words (OCR):** 103 in 89 lines: WAAD-BECK SYSTEms LTD. · PARTS LIST · 8-109 AMPLLFLERSERIES · 8-109 · PARI DESCRIPTION · MFG · MFG PART · NUMBER · C1 · Capacitor · 33 uF/10 · Kemet
 - **Title block:** (25, 403)–(135, 427) mm: WAAD-BECK SYSTEms LTD.
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p12 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p12%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p12 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p12 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 85 in 74 lines: WAAD-BECK SYSTEMS LTD · PARIS LISI · 8-109_AMPLIFIER_SERIES · 8-109 · PART DESCRIPIION · MEG · MEG_PART NUMBER · R4  Resistor 58 6k2 · Philips · RS · 6K2 · R6
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p13 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p13%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p13 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p13 (
 - **Words (OCR):** 92 in 76 lines: WAAD-BECK SYSTEMs LTD; · PARIS LIST · 8-109 AMPLIFIER_SERIES · 8-109 · PART DESCRIPIION · MFG · MFG PART · NUMBER · R36 · Resistor · 4K7 · Philips
 - **Title block:** (24, 402)–(134, 426) mm: WAAD-BECK SYSTEMs LTD;
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p14 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p14%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p14 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p14 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 101 in 78 lines: WAAD-BECK SYsTems LTD; · PARIS_LIST · 8-109 AMPLIFLER_SERIES · 8-109C · A11 · parts as per · 8-109 except noted · as · below · PARI · DESCRIPTION · MFG
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p15 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p15%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p15 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p15 (
 - **Words (OCR):** 70 in 49 lines: WARD-BECK SYSTEms LTD_ · PARIS LISI · 8-109_AMPLIFIER_SERIES · 8-109F · 8-109 except noted below · A11 · parts as · per · as · PARI DESCRIPIION · MFG · MFG_PART NUMBER
 - **Title block:** (22, 90)–(132, 426) mm: WARD-BECK SYSTEms LTD_ · 8-109F · A11 · parts as · per · PARI DESCRIPIION · c6 · Capacitor · 4.7 PF · C11 · R15 · Resistor · 58 · 8-1096 · AII · parts as · per · PART · DESCRIPTION · C6 · Capacitor 4.
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p16 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p16%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p16 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p16 (
 - **Words (OCR):** 236 in 109 lines: WAAD-BECK SySTems LTD · OPERATIONAL · CONTROLS · ML7IA STEREO inPuT MODULE · PHASE · switch Sw2: When depressed · this switch will reverse · the · polarity of the right · output signal · relative to the · right
 - **Title block:** (24, 398)–(132, 422) mm: WAAD-BECK SySTems LTD
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p17 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p17%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p17 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -200,7 +200,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p17 (
 - **Words (OCR):** 27 in 24 lines: WbS · M471A · AUX · 20- · pre PSt · AUx · 1O- PSt · PRE · 10 · BAL · CHON · IssU IDATE
 - **Title block:** (93, 4)–(368, 412) mm: WbS · M471A · AUX · 20- · pre PSt · AUx · 1O- PSt · PRE · 10 · BAL · CHON · IssU IDATE · Re vision · APP · WBS WAAO-BeCk 8Y?TEMS · 0.N.702 · DRN · M4t1A · ENG · CKD · STEREO inPUT MODULE · APP · 5 ALE
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p18 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p18%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p18 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p18 (
 - **Title block:** (278, 3)–(432, 77) mm: ISSUE |DATE · REVISION · APP: · WBS · WARD-BECK SYSTEMS · DRN D.N./82 · MATIA · STEREO INPUT MODULE · ENG_ · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 471-01-002
 - **Wiring (first pass):** 99 connected wire groups from 227 runs; labelled ends: 182 mm → 22, PREIPOST, PFL, PRE; 126 mm → BALANCE, LEFT OUTPut; 121 mm → Right Output, PRE/POST; 103 mm → BALANCE, INSERT; 101 mm → 22, 21
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p19 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p19%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p19 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -228,7 +228,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p19 (
 - **Title block:** (360, 0)–(432, 33) mm: WBS · WAAD-Beck BybtemB · M4T IA · STEREO INPUT MODULE · SCHEMATIC · SCALE · 471-02-002
 - **Wiring (first pass):** 166 connected wire groups from 872 runs; labelled ends: 204 mm → FRE; 198 mm → 33/0; 130 mm → 33/i0; 115 mm → 22k, R4g; 114 mm → 3/0
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p20 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p20%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p20 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -239,7 +239,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p20 (
 - **Words (OCR):** 38 in 37 lines: WBS · M47iA · 4.123 · Ds · sw 2 · 21,R2 · 8-109 · SW · AUX 2 · Sw 3 · 8.109 · R3, R 4
 - **Title block:** (186, 0)–(432, 293) mm: WBS · M47iA · 4.123 · 21,R2 · 8-109 · AUX 2 · Sw 3 · R3, R 4 · Sw 9 · RS,R6 · R7, R8 · Sw 3 · chON · AMP (LEFT) · boostEr · App · DATE · WBS · WAAO-BECK SYSTEMB · ENG · M471A · STEREO INPUT MODULE · C
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p21 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p21%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p21 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -253,7 +253,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p21 (
 - **Title block:** (121, 5)–(397, 225) mm: 21 · WBS · 005 · L7(458 · Zei · ~R64 'Sk · Swe · ~Rti- · R3+r4 · WBS · ~B3 · 4-123 · 0-005 · Sw9 · Sw · Wes · 263 · mm · Ra · ZE7 · R5, · R9 · Sw · 2135_ · WB $ 1-002 · 2/22- · 22 /25 · 22/25 · C4_ · 
 - **Wiring (first pass):** 39 connected wire groups from 126 runs; labelled ends: 240 mm → 2160; 20 mm → LTO_; 13 mm → 686, RSS, 22, ~Cist; 12 mm → 22, R78, ~Cist, LM /+58; 12 mm → 686, RSS, 22, ~Cist
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p22 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p22%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p22 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p22%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -264,7 +264,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p22 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 83 in 45 lines: LEFT · INPUT · LEFT INPUt · COMMON GROUND · COMMON GROUND · RIGHT INPUT · RIGHT INPUt · W1 · AUX · AUX · OUT · OUT
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p23 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p23%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p23 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p23%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p23 (
 - **Words (OCR):** 104 in 101 lines: E3 · +21.5v · C3 · 10/zs · 3/7 · ris · 4k7 · 22 · 02 · PN3c+5 · 2N2102 · F3s6
 - **Title block:** (352, 17)–(432, 36) mm: EsuDaly · REYISIOM · WBS WARD-BECK SYBTEMB · 8 - 1098
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p24 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p24%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p24 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p24%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -288,7 +288,7 @@ Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p24 (
 - **Words (OCR):** 113 in 98 lines: 067 · E2 · 33/18 +C2- 47k · 33/6 · E16 ~Ci · ~RIG 22k · R2 · LRI · 6K2 · R4 Lk? · 22k · RS
 - **Title block:** (129, 4)–(432, 131) mm: WBS · E5 · 8-109 · z2o/ec16+ · 22o/6 · Iblulg1 Ec0493 4017 · ML · ~R374k7 · FR36 · 4k7_ · ISSUE |DATE · REVISION · APP · EG · WBS WARD-BECK SYSTEMS · DRN GEB · 8 - 109 B · ENG.MRW 4/78 · BOOSTER AMPLI
 
-Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p25 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p25%20(traced).json) (the CAD file: `1985 - M471A - Stereo Input Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - Stereo Input Module p25 (traced).json](../MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p25%20%28traced%29.json) (the CAD file: `1985 - M471A - Stereo Input Module p25 (traced).dxf`).
 
 ## Full text
 

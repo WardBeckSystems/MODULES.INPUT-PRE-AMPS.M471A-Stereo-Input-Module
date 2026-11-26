@@ -18,7 +18,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Outlines:** line 119 rings, 2,922 straight (7,072 mm) / 348 curved (574 mm); text 709 rings, 6,221 straight (8,557 mm) / 1,402 curved (2,247 mm)
 - **Closed boxes:** 34
 
-Every curve, box, word and wire group: [1985 - M471A - 471-04-008 - ENG STEREO INPUT MODULE (traced).json](../MECHANICAL/1985%20-%20M471A%20-%20471-04-008%20-%20ENG%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1985 - M471A - 471-04-008 - ENG STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 471-04-008 - ENG STEREO INPUT MODULE (traced).json](../MECHANICAL/1985%20-%20M471A%20-%20471-04-008%20-%20ENG%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1985 - M471A - 471-04-008 - ENG STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Words (OCR):** 25 in 22 lines: WbS · Mat1A · AUX · PrE PST · 10-0 · AUx · PRE · PSt · 10 · BAAL · CH ON · ISSU DATE
 - **Title block:** (93, 4)–(342, 412) mm: WbS · Mat1A · AUX · PrE PST · 10-0 · AUx · PRE · PSt · 10 · BAAL · CH ON · ISSU DATE · Revision · WBS WAAO-BECK · DRN D.N.702 · M47 1A · ENG · Ckd · STEREO InPUT MODULE · APP · 5 :ALE · 471-04-006
 
-Every curve, box, word and wire group: [1985 - M471A - 471-04-006 - STEREO INPUT MODULE (traced).json](../MECHANICAL/1985%20-%20M471A%20-%20471-04-006%20-%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1985 - M471A - 471-04-006 - STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 471-04-006 - STEREO INPUT MODULE (traced).json](../MECHANICAL/1985%20-%20M471A%20-%20471-04-006%20-%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1985 - M471A - 471-04-006 - STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Title block:** (361, 18)–(432, 33) mm: WBS · WAAD-BeCk aybtemb · M47 1A
 - **Wiring (first pass):** 163 connected wire groups from 871 runs; labelled ends: 213 mm → POST, 33/10, 3/0; 197 mm → Ci2, 3//0; 182 mm → cio, 33/0; 150 mm → NSERT, R6z, 390, R58; 128 mm → 23, 22/25, 20, 470k
 
-Every curve, box, word and wire group: [1985 - M471A - 471-02-002 - UNLESS SPELIFIEO OTHERWISE (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%20471-02-002%20-%20UNLESS%20SPELIFIEO%20OTHERWISE%20(traced).json) (the CAD file: `1985 - M471A - 471-02-002 - UNLESS SPELIFIEO OTHERWISE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 471-02-002 - UNLESS SPELIFIEO OTHERWISE (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%20471-02-002%20-%20UNLESS%20SPELIFIEO%20OTHERWISE%20%28traced%29.json) (the CAD file: `1985 - M471A - 471-02-002 - UNLESS SPELIFIEO OTHERWISE (traced).dxf`).
 
 ## Full text
 

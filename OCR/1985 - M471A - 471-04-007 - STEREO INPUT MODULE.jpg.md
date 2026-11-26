@@ -20,7 +20,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Words (OCR):** 38 in 36 lines: WBS · 4.123 · Ds · sw 2 · 21,R2 · 8-109 · Sw 4 · AUX2 · sw 3 · 8.109 · R3, R 4 · SW 6
 - **Title block:** (186, 0)–(432, 292) mm: WBS · 4.123 · 21,R2 · 8-109 · AUX2 · sw 3 · R3, R 4 · sw 9 · Rs,R 6 · R7, R8 · 3 + +C ~ · Sw 3 · BoostEr · AMP (LEFt)- · ISSU DATE · APp · WARO-BECK SySTEMS · WBS · ENG · M47 1A · STEREO INPUT MODULE 
 
-Every curve, box, word and wire group: [1985 - M471A - 471-04-007 - STEREO INPUT MODULE (traced).json](../MECHANICAL/1985%20-%20M471A%20-%20471-04-007%20-%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1985 - M471A - 471-04-007 - STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 471-04-007 - STEREO INPUT MODULE (traced).json](../MECHANICAL/1985%20-%20M471A%20-%20471-04-007%20-%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1985 - M471A - 471-04-007 - STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 12 in 12 lines: DescRIPTiON · WBS · M4714 · AuX · 10 · CH ON · WBS · WARO-BeCk SYSTEMS · M47IA · STEREO INPUT MODULE · SCAV · 471-04-006
 - **Title block:** (285, 18)–(432, 205) mm: WBS · M4714 · AuX · 10 · CH ON · WBS · WARO-BeCk SYSTEMS · M47IA
 
-Every curve, box, word and wire group: [19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE (traced).json](../MECHANICAL/19xx%20-%20M471A%20-%20DOC%20-%20471-04-006%20-%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE (traced).json](../MECHANICAL/19xx%20-%20M471A%20-%20DOC%20-%20471-04-006%20-%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

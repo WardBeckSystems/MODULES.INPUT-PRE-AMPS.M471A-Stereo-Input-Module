@@ -24,7 +24,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Title block:** (347, 0)–(432, 36) mm: REviSIOM · WBS WARD-Beck syBtenS · 8 - 109 8 · ENG MrW · booster AMPLIFIER · SCHEMATIC · SCALE · 8-109 - · 02-003
 - **Wiring (first pass):** 53 connected wire groups from 391 runs; labelled ends: 205 mm → E3, Ris, 22, Ri7; 197 mm → R2s, 4k7; 161 mm → Lk2; 147 mm → R32, 6.8, R35, R33; 147 mm → Rzo, 6*8, R34, R3i
 
-Every curve, box, word and wire group: [1985 - M471A - 8-109-02-003 - ISSUEDATE REVISION (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%208-109-02-003%20-%20ISSUEDATE%20REVISION%20(traced).json) (the CAD file: `1985 - M471A - 8-109-02-003 - ISSUEDATE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 8-109-02-003 - ISSUEDATE REVISION (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%208-109-02-003%20-%20ISSUEDATE%20REVISION%20%28traced%29.json) (the CAD file: `1985 - M471A - 8-109-02-003 - ISSUEDATE REVISION (traced).dxf`).
 
 ## Full text
 

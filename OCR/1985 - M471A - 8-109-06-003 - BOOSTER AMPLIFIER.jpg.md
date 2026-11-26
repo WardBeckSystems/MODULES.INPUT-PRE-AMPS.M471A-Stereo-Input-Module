@@ -21,7 +21,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Words (OCR):** 116 in 103 lines: 0E7 · E2 · 33/10 +c2 · 33/* · E1E ~Ci · -ceG8p · ~RI6 22k · R2-Azk · LRI · R4 Lk? · ~R18 · 22k
 - **Title block:** (129, 4)–(432, 131) mm: WBS · ES · 8-109 · z2o/iec16+ · 22o/6 · Iblul81 Ece493 4017 · ~R374K7 · ~R36 · 4k7_ · ISSUE DATE · REVISION · APP · EG · WBS WARD-BECK SYSTEMS · DRN GEB · 8 - 109 B · 4/78 · ENG.MRW · BOOSTER AMPLIFIE
 
-Every curve, box, word and wire group: [1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%208-109-06-003%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%208-109-06-003%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

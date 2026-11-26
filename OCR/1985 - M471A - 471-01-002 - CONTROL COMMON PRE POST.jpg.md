@@ -23,7 +23,7 @@ Wiki page: [M471A](../../../../PAGES/M471A.md)
 - **Title block:** (277, 3)–(432, 76) mm: IsSUE |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN_ · D.N./82 · M471A · MODULE · ENG · STEREO INPUT · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 471-01-002
 - **Wiring (first pass):** 101 connected wire groups from 227 runs; labelled ends: 181 mm → z2, PREIPOST, PFL, PRE; 126 mm → BALANCE, LEFT Output; 121 mm → Right output, PRE/POST; 114 mm → PRE/POST; 101 mm → z2, 21
 
-Every curve, box, word and wire group: [1985 - M471A - 471-01-002 - CONTROL COMMON PRE POST (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%20471-01-002%20-%20CONTROL%20COMMON%20PRE%20POST%20(traced).json) (the CAD file: `1985 - M471A - 471-01-002 - CONTROL COMMON PRE POST (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M471A - 471-01-002 - CONTROL COMMON PRE POST (traced).json](../SCHEMATICS/1985%20-%20M471A%20-%20471-01-002%20-%20CONTROL%20COMMON%20PRE%20POST%20%28traced%29.json) (the CAD file: `1985 - M471A - 471-01-002 - CONTROL COMMON PRE POST (traced).dxf`).
 
 ## Full text
 
