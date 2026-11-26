@@ -1,0 +1,119 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471A/MECHANICAL/1985 - M471A - 471-04-006 - STEREO INPUT MODULE.jpg",
+ "version": 1,
+ "trace": "_traces/8213fa5fcfc879ae.svg",
+ "sheet": {
+  "number": "471-04-006",
+  "title": "Stereo Input Module",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1424, 1669],
+  "mm": [368.4, 431.8],
+  "mm_per_px": 0.25872
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [23.3, 0.0, 368.5, 406.6],
+ "outlines": {
+  "line": {"rings": 109, "straight": {"n": 1827, "mm": 6220.4}, "curved": {"n": 366, "mm": 964.5}},
+  "text": {"rings": 153, "straight": {"n": 1105, "mm": 1541.4}, "curved": {"n": 332, "mm": 598.1}},
+  "tb": {"rings": 50, "straight": {"n": 420, "mm": 847.9}, "curved": {"n": 111, "mm": 302.7}}
+ },
+ "circles": [
+  {"c": [133.1, 188.2], "r": 11.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.7, 217.0], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.2, 246.0], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.9, 288.9], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [206.2, 188.5], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [207.0, 287.8], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [206.5, 245.2], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [31.2, 344.2], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [206.3, 216.2], "r": 6.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [206.5, 266.5], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [207.0, 310.1], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.2, 189.0], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [109.0, 344.1], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [134.2, 288.3], "r": 4.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [108.7, 356.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {
+   "mm": [92.6, 151.3, 148.0, 405.7],
+   "w": 55.4,
+   "h": 254.3,
+   "from": "ring",
+   "words": ["WbS", "Mat1A", "AUX", "PrE", "PST", "AUx", "10-0", "PSt", "PRE", "BAAL", "CH ON"],
+   "in_title_block": true
+  },
+  {"mm": [234.1, 31.5, 265.7, 37.5], "w": 31.6, "h": 6.0, "from": "ring", "words": ["DRN D.N.702"], "in_title_block": true},
+  {"mm": [233.9, 18.4, 265.7, 24.3], "w": 31.8, "h": 6.0, "from": "ring", "words": ["Ckd"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [100.6, 398.2, 113.1, 403.6], "text": "WbS"},
+   {"mm": [126.5, 397.4, 144.4, 402.9], "text": "Mat1A"},
+   {"mm": [125.5, 296.0, 136.9, 300.9], "text": "AUX"},
+   {"mm": [120.6, 276.6, 146.7, 282.0], "text": "PrE PST"},
+   {"mm": [94.7, 237.0, 141.3, 253.7], "text": "10-0"},
+   {"mm": [128.3, 251.7, 139.7, 257.2], "text": "AUx"},
+   {"mm": [119.0, 233.4, 130.4, 238.8], "text": "PRE"},
+   {"mm": [135.8, 233.9, 146.7, 239.3], "text": "PSt"},
+   {"mm": [201.3, 212.7, 211.6, 220.7], "text": "10"},
+   {"mm": [130.4, 199.5, 140.2, 203.8], "text": "BAAL"},
+   {"mm": [121.3, 166.9, 145.1, 175.5], "text": "CH ON"},
+   {"mm": [267.0, 56.9, 291.3, 61.2], "text": "ISSU DATE"},
+   {"mm": [315.6, 56.9, 334.5, 61.2], "text": "Revision"},
+   {"mm": [245.5, 42.2, 327.3, 50.2], "text": "WBS WAAO-BECK"},
+   {"mm": [235.2, 32.6, 263.4, 36.9], "text": "DRN D.N.702"},
+   {"mm": [301.7, 26.9, 326.5, 34.4], "text": "M47 1A"},
+   {"mm": [234.1, 25.6, 243.2, 30.5], "text": "ENG"},
+   {"mm": [234.7, 19.1, 244.5, 23.5], "text": "Ckd"},
+   {"mm": [272.4, 14.2, 360.9, 24.3], "text": "STEREO InPUT MODULE"},
+   {"mm": [235.2, 12.7, 243.2, 16.4], "text": "APP"},
+   {"mm": [243.2, 6.2, 256.1, 10.5], "text": "5 :ALE"},
+   {"mm": [289.2, 1.6, 334.5, 8.5], "text": "471-04-006"}
+  ]
+ },
+ "title_block": {
+  "mm": [93.3, 4.1, 341.8, 412.1],
+  "from": "title-block words (training set)",
+  "text": [
+   "WbS",
+   "Mat1A",
+   "AUX",
+   "PrE PST",
+   "10-0",
+   "AUx",
+   "PRE",
+   "PSt",
+   "10",
+   "BAAL",
+   "CH ON",
+   "ISSU DATE",
+   "Revision",
+   "WBS WAAO-BECK",
+   "DRN D.N.702",
+   "M47 1A",
+   "ENG",
+   "Ckd",
+   "STEREO InPUT MODULE",
+   "APP",
+   "5 :ALE",
+   "471-04-006"
+  ]
+ },
+ "dots": [{"c": [142.4, 220.2], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 471-04-006, size B (assumed) 368 × 432 mm, 1424 × 1669 px traced (0.259 mm/px)",
+  "- **Ink extent:** 23–368 mm across, 0–407 mm up",
+  "- **Outlines:** line 109 rings, 1,827 straight (6,220 mm) / 366 curved (964 mm); text 153 rings, 1,105 straight (1,541 mm) / 332 curved (598 mm); tb 50 rings, 420 straight (848 mm) / 111 curved (303 mm)",
+  "- **Circles and arcs:** 15 circles, 0 arcs; largest r 11.1 @ (133.1, 188.2), r 6.2 @ (30.7, 217.0), r 6.2 @ (30.2, 246.0), r 6.2 @ (30.9, 288.9)",
+  "- **Closed boxes:** 3 (3 in the title block)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 25 in 22 lines: WbS · Mat1A · AUX · PrE PST · 10-0 · AUx · PRE · PSt · 10 · BAAL · CH ON · ISSU DATE",
+  "- **Title block:** (93, 4)–(342, 412) mm: WbS · Mat1A · AUX · PrE PST · 10-0 · AUx · PRE · PSt · 10 · BAAL · CH ON · ISSU DATE · Revision · WBS WAAO-BECK · DRN D.N.702 · M47 1A · ENG · Ckd · STEREO InPUT MODULE · APP · 5 :ALE · 471-04-006"
+ ]
+}

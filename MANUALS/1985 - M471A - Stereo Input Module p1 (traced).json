@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471A/MANUALS/1985 - M471A - Stereo Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/53b8066444dbe326-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.2, 22.0, 298.3, 422.5],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 647, "mm": 2859.4}, "curved": {"n": 76, "mm": 128.5}},
+  "text": {"rings": 131, "straight": {"n": 1483, "mm": 2049.1}, "curved": {"n": 342, "mm": 554.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [114.4, 402.0, 276.6, 410.6], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [44.5, 392.7, 274.2, 407.8], "text": "WES 841 PACGPESS AVENUE; SCAABOPOLGH; ONTAAIO M1h2x4"},
+   {"mm": [112.5, 390.8, 165.4, 397.3], "text": "Telex 065-25399"},
+   {"mm": [200.4, 391.0, 274.4, 396.3], "text": "TELEPHCNE 416,438-6550"},
+   {"mm": [137.1, 213.3, 184.6, 226.7], "text": "M47IA"},
+   {"mm": [122.4, 194.7, 204.9, 203.4], "text": "STErEO INPUT MODULE"}
+  ]
+ },
+ "title_block": {
+  "mm": [107.7, 393.5, 257.0, 419.4],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "WES 841 PACGPESS AVENUE; SCAABOPOLGH; ONTAAIO M1h2x4", "Telex 065-25399", "TELEPHCNE 416,438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–298 mm across, 22–422 mm up",
+  "- **Outlines:** line 26 rings, 647 straight (2,859 mm) / 76 curved (128 mm); text 131 rings, 1,483 straight (2,049 mm) / 342 curved (555 mm)",
+  "- **Words (OCR):** 12 in 6 lines: WARD-BECK SYSTEMS LTD_ · WES 841 PACGPESS AVENUE; SCAABOPOLGH; ONTAAIO M1h2x4 · Telex 065-25399 · TELEPHCNE 416,438-6550 · M47IA · STErEO INPUT MODULE",
+  "- **Title block:** (108, 394)–(257, 419) mm: WARD-BECK SYSTEMS LTD_ · WES 841 PACGPESS AVENUE; SCAABOPOLGH; ONTAAIO M1h2x4 · Telex 065-25399 · TELEPHCNE 416,438-6550"
+ ]
+}

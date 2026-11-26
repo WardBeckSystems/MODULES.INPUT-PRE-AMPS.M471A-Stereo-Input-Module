@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471A/MANUALS/1985 - M471A - Stereo Input Module (2).pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/5b6d8a4e3a87bd0e-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 7.9, 310.5, 422.5],
+ "outlines": {
+  "line": {"rings": 122, "straight": {"n": 1374, "mm": 3764.6}, "curved": {"n": 292, "mm": 459.8}},
+  "text": {"rings": 227, "straight": {"n": 1569, "mm": 1821.1}, "curved": {"n": 386, "mm": 606.7}}
+ },
+ "circles": [
+  {"c": [120.2, 312.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [240.7, 324.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [27.6, 410.2, 45.6, 415.7], "text": "WAR"},
+   {"mm": [68.9, 410.2, 143.6, 415.7], "text": "CK YST'EM LTO."},
+   {"mm": [146.8, 361.6, 191.7, 368.1], "text": "DESCRIPTION"},
+   {"mm": [122.6, 348.5, 214.8, 354.9], "text": "8·109 AMPLIFIER SERIES"},
+   {"mm": [42.3, 321.9, 108.0, 328.4], "text": "in ve rting .ap11f1"},
+   {"mm": [122.4, 321.9, 137.5, 328.4], "text": "wfth"},
+   {"mm": [159.1, 321.9, 240.7, 328.4], "text": "xt erna ly strappe to"},
+   {"mm": [41.9, 308.5, 81.6, 315.0], "text": "The output"},
+   {"mm": [102.8, 308.5, 137.3, 315.0], "text": "11 ao dels"},
+   {"mm": [155.2, 308.5, 160.8, 315.0], "text": "th"},
+   {"mm": [182.9, 308.5, 190.4, 315.0], "text": "09"},
+   {"mm": [203.6, 308.5, 229.9, 315.0], "text": "ries is"},
+   {"mm": [235.1, 308.5, 261.5, 315.0], "text": "ac tivel"},
+   {"mm": [41.9, 302.0, 88.5, 308.5], "text": "b.hn ced and"},
+   {"mm": [106.7, 302.0, 145.7, 308.5], "text": "brought ou"},
+   {"mm": [171.4, 302.0, 177.3, 308.5], "text": "In"},
+   {"mm": [199.1, 302.0, 205.8, 308.5], "text": "an"},
+   {"mm": [289.7, 76.4, 310.2, 85.5], "text": "ca"},
+   {"mm": [266.9, 53.5, 288.7, 65.1], "text": "BS"},
+   {"mm": [244.4, 31.1, 263.0, 38.3], "text": "tp"},
+   {"mm": [237.3, 24.0, 258.2, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–310 mm across, 8–422 mm up",
+  "- **Outlines:** line 122 rings, 1,374 straight (3,765 mm) / 292 curved (460 mm); text 227 rings, 1,569 straight (1,821 mm) / 386 curved (607 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.9 @ (120.2, 312.4), r 1.9 @ (240.7, 324.4)",
+  "- **Words (OCR):** 40 in 21 lines: WAR · CK YST'EM LTO. · DESCRIPTION · 8·109 AMPLIFIER SERIES · in ve rting .ap11f1 · wfth · xt erna ly strappe to · The output · 11 ao dels · th · 09 · ries is"
+ ]
+}

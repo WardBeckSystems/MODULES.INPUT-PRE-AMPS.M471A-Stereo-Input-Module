@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471A/MANUALS/1985 - M471A - Stereo Input Module.pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/53b8066444dbe326-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 8.0, 309.4, 422.5],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 582, "mm": 2916.6}, "curved": {"n": 76, "mm": 116.9}},
+  "text": {"rings": 244, "straight": {"n": 2004, "mm": 2403.9}, "curved": {"n": 602, "mm": 939.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [27.4, 410.2, 142.9, 418.4], "text": "WAAD-BECK SySTEMS LTD"},
+   {"mm": [145.7, 361.6, 192.2, 369.8], "text": "DESCRIPTION"},
+   {"mm": [122.0, 349.8, 142.9, 356.7], "text": "8-109"},
+   {"mm": [149.8, 347.4, 216.8, 357.0], "text": "AMPLLELER_SERIES"},
+   {"mm": [40.4, 321.7, 138.6, 331.8], "text": "inverting amplifier with"},
+   {"mm": [141.6, 320.6, 256.9, 330.7], "text": "El externally strapped E6 _"},
+   {"mm": [234.3, 321.7, 243.3, 328.2], "text": "to"},
+   {"mm": [41.0, 309.2, 110.1, 317.5], "text": "The output 0 f a 11"},
+   {"mm": [113.1, 308.7, 190.9, 317.3], "text": "models 0 f the 8-109"},
+   {"mm": [193.4, 307.0, 267.1, 316.5], "text": "series is actively"},
+   {"mm": [41.0, 302.7, 102.6, 310.3], "text": "ba lanced and is"},
+   {"mm": [105.8, 302.3, 163.0, 309.9], "text": "brought out at"},
+   {"mm": [165.6, 301.8, 210.9, 309.3], "text": "pins E4 and"},
+   {"mm": [213.7, 301.8, 226.0, 308.8], "text": "E6 ."},
+   {"mm": [148.3, 6.9, 186.1, 14.6], "text": "8-109-1-3"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–309 mm across, 8–422 mm up",
+  "- **Outlines:** line 32 rings, 582 straight (2,917 mm) / 76 curved (117 mm); text 244 rings, 2,004 straight (2,404 mm) / 602 curved (940 mm)",
+  "- **Words (OCR):** 33 in 15 lines: WAAD-BECK SySTEMS LTD · DESCRIPTION · 8-109 · AMPLLELER_SERIES · inverting amplifier with · El externally strapped E6 _ · to · The output 0 f a 11 · models 0 f the 8-109 · series is actively · ba lanced and is · brought out at"
+ ]
+}

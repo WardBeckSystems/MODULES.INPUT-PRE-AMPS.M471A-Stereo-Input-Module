@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471A/MANUALS/1985 - M471A - Stereo Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/5b6d8a4e3a87bd0e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.2, 22.0, 310.5, 422.5],
+ "outlines": {
+  "line": {"rings": 101, "straight": {"n": 1322, "mm": 3860.1}, "curved": {"n": 231, "mm": 401.8}},
+  "text": {"rings": 90, "straight": {"n": 1030, "mm": 1430.2}, "curved": {"n": 248, "mm": 404.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [114.4, 402.0, 133.4, 409.0], "text": "WA"},
+   {"mm": [172.9, 402.0, 277.4, 409.0], "text": "CK YS TE MS TD."},
+   {"mm": [39.9, 390.1, 165.2, 407.9], "text": "[VVE3S] Te 06.. ....399"},
+   {"mm": [157.0, 396.2, 195.2, 400.5], "text": "\"''''''NuE .SCAF'l"},
+   {"mm": [222.4, 396.2, 247.6, 400.5], "text": ".<,)N1\"''-''''O"},
+   {"mm": [201.2, 390.1, 213.5, 394.9], "text": "TELE"},
+   {"mm": [245.3, 390.6, 256.9, 394.6], "text": "'4\"'8"},
+   {"mm": [138.2, 212.0, 184.6, 224.0], "text": "M471A"},
+   {"mm": [123.7, 195.2, 203.2, 201.7], "text": "STEREO INPUT MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–310 mm across, 22–422 mm up",
+  "- **Outlines:** line 101 rings, 1,322 straight (3,860 mm) / 231 curved (402 mm); text 90 rings, 1,030 straight (1,430 mm) / 248 curved (405 mm)",
+  "- **Words (OCR):** 23 in 13 lines: WA · CK YS TE MS TD. · [VVE3S] Te 06.. ....399 · \"''''''NuE .SCAF'l · .<,)N1\"''-''''O · TELE · '4\"'8 · M471A · STEREO INPUT MODULE · ps · BS · tp"
+ ]
+}
