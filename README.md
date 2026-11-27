@@ -183,6 +183,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1Kt3Oqf1Oet8lFtpRtUq8APb0th_FjPYO/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1Kt3Oqf1Oet8lFtpRtUq8APb0th_FjPYO" width="240" alt="19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE.jpg"></a><br><sub>19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M471A.stl`](MECHANICAL/M471A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M471A)
+
+- **Size:** 73.74 × 267.78 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 11 holes and cut-outs, 3 knobs (front panel: `MECHANICAL/M471A - front panel.svg`)
+- the drawn panel is 0.22 wide to high, the size 0.28: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M471A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
