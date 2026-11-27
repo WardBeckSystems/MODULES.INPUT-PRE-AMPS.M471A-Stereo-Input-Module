@@ -1,0 +1,115 @@
+{
+ "module": "M471A",
+ "source": {
+  "file": "MANUALS/1985 - M471A - Stereo Input Module (2).pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.8,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "M4?lA STEREO INPUT MODULE",
+    "The M4 7 1A St......o Input Module i s designed to ace..pt s t e..eo line l eve 1 SOu \" Ce s. The unit p..ne.. s ses th.. inputs i g na las r-e Qu i....d and rout.. sit to th.. app..op.. iate points within the mixing console system.",
+    "The input s..ct ion consists of the CHANNEL ON switch SW3, and the PHASE REVERSALs witch SW2, which.. ff.. cts only the.. ight inputs i g nal path. The channel ON condition is ind i cat..d by the ill u min a t ion oft h e CH ON switch pu shbu llOn when d ep\"essed, and sim ila.. l y the phase.. eve.. sed condition is indicated by t h.. Ill u min a ti on oft h e LED, DS I, located adjacent to SW2.",
+    "FOllowing SW3, the signal i s brought out o f the module via edge connector pins 10, Land 11, M fo.. connection tot he inputs of a balanced s te r-eo fade r. The outputs oft h e fade.. are \" e turned to the module On pins 12, N and 13, P fo.. left and.. ight signals.. esp ectiv e ly. The inputs ide of the fade r also Se..v eS a s the pickup point fo.. the dual operational amplifier Z I which combines the left and right input signals and d.. ives the module internal p ref a d e bus. This bus i s also brought out to edge cc n n ecto rp ins Rand 14 fo.. fur the r assignment a\"..e Clu i..e d.",
+    "8 _ 109 B BOOSTER AMPLIFIER",
+    "The 8-10 9B Booster Amplifier operates with again of 18 dB and recover s the loss incu....ed when the fade.. isp laced i nits normal 15 dB \"in h and\" posit ion. Thee x t.. a 3 d B o f gain i s used too v e rcom e the 3 dB loss oft h e balance p o ten tiomete..\" at t h ei.. mid _p o s i ti o nth e..eb y maintaining the 0 dBm output levels.",
+    "BALANCE AND MAIN OUTPUTS",
+    "The outputs i gn a l of the 8 _ 10 98 amplif le.. is used to feed both left and right main outputs via the BALANCE \" witch SW7 and ganged BALANCE control RS through R8. I t alsop..ovides the feed fo.. dual",
+    "operational amp l i fie r Z 2, which combines the left and right output",
+    "signals and d \";v est he module i nte..n alpo s tf \" d e bus. This bus is ·",
+    "brought out toed g e connector pins U and 17 fo.. add i t io na lass i g n",
+    "men t as..equi.. ed."
+   ]
+  },
+  {
+   "heading": "M47 1A STEREO INPUT MODULE",
+   "paragraphs": [
+    "PRE/ POST SELECTOR SWITCHES AND LEVEL CONTROLS",
+    "Sw ilCh SWg aCI,. a,. Ihe p.. e/pOll I \"1e<;: 10.. for I he AUX I OUlpUI. w i l h ganged pOlenl iom eter RJ/ R4 eee r al'ng..,. I h e AUX, ' ev elm i\", CO'\"I\"OI. SWB I s I hep..../ POSI seleclor lor theA UX 2 OUIPul. with g\"nged potenllome I.... R ' / R2 us~ \" S I he AUX 2 lev.. l m i \" contl\"Ol.",
+    "Momen l.... y s wi l c h SW10 enables Ih e PFL outpu l slgn,,1 which is de r lved d l.. ec lly from Ihe module i n le.. n~1I p..eteee bus. This switCh alsop..ovl de san.. \"I..a set of con laC lS fo.. a PFL dc con l..o l wh l ch can be used 10 aCl iv ale e \" I er-n\" I.... lays, lamps, eiC.",
+    "POWER SUPPLY DECOUPLiN G",
+    "An aClive powe.. supply d ecoup ling net wo.. k consisting of 0 1 I h l\"Ou gh 06 p..ovid.. s.. hlgh de g.. eeo f I Sol a l lon belwe en I h e M47 1A and t h.. +/ _25 volt supply.. ails. Trans l sto.. s as and 06 se r-ve a s cu....en l monl to.. Sand will l lmil Ihe cu....en l flowing Ihl\"O ugh I h e se.. les pass t.. a n s l sto.. s 03 and 04 In the even I t h.. t e\",ce ss ive p Ow.... supply d.... a nds should a,. i seas a.... su l l of component f.. ll u..e.",
+    "WAR C · S ECI<. SYSTEMS LT C."
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "C> Capacitor-22 uF /25 V PI'l:,liPS.26ETF22 C2 22 uF /25 V CJ 22 uF/2~ V C' 22 uF /25 V",
+    "C, delete C7 delete C' delete C, Capacitor-68u F/ 10V TJ9OO686M0 10,\",S COO 33 uF/ lO V T39OO336M010,\",S",
+    "CO> 68 uF/ l 0V TJ900 686M 0 10AS CO2 33u F/ IOV T3900 336M0 10\"\"S CO2 68 uF/ I O V T3900686M010....S C\" 33u F/l0V T3900336M0 10....S cis 68 uF / l 0 V T3900686M0 10\"\"S",
+    "33 uF /l 0 V",
+    "CR' Diode on IN. OO3",
+    "0\" L;O, R.o Fain:l'lild FLV 117 052 on ZFL-LEO-R",
+    "0' Tr-an \\li,UorNational PN3569 02 PN3645 OJ TIP296 O' TlPXlB 0' National PNl569 0' PN3645",
+    "Rn Potentiomet er-. dual 0/ 8"
+   ]
+  },
+  {
+   "heading": "\",1I.71A. STEREO INPUT MODULE",
+   "paragraphs": [
+    "'S) Potent iometer, qued AlB",
+    "., ReSistor 1/ II.W sl",
+    "R I S to",
+    ".., Resistor l /II. W si,2<",
+    "delete Resistor l /II. W\"SI",
+    "m 33.",
+    "'53 33.",
+    "'59 33\""
+   ]
+  },
+  {
+   "heading": ".OO 390",
+   "paragraphs": [
+    "es 390",
+    ".63 390",
+    "• OO rs•",
+    "eo, R es i,~tor l j4W\" 5%:;~ Phil; p s",
+    "deleted e le te",
+    "d e ie te",
+    "delete \", Resistor 1! 4W 5%"
+   ]
+  },
+  {
+   "heading": "3W 5%",
+   "paragraphs": [
+    "SWI delete",
+    "SW2 Switch WBS 11_002 swa was 11_157 S\", was 11-002",
+    "SW10 WBS 11_003"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "8P inOipSock et",
+    "WBS recommends the use of replacement parts made by the specified",
+    "manufacturers for continued optimum equip men t performance."
+   ]
+  },
+  {
+   "heading": "8 · 10 9 AMPLIFIER SERIES",
+   "paragraphs": [
+    "The 8 -10 9 series of amplifiers are util t zed as an internal component within various WBS series of audio console modules. Each 8-109 amplifier mounts as a plu9-fn assembly onto the module motherboard.",
+    "The 8-109 ampI ifier provfdes ana c t t vel y balanced output with a +30 dBm capability. It is employed as an output ora booster amplifier with either a balanced oran unbalanced 1nput.",
+    "The following specifications apply tot he 8-109 series of amplifiers.",
+    "Unit ~ 8-109 Balanced 15 dB 8-t09A Unbel anced 7 dB 8-1098 Balanced 18 dB 8-10ge Balanced 39 dB 8-1090 Unbalanced 29 dB 8-109E aaj aecec 29 dB 8-109F set ancee 33 dB 8-109G aal a oc e e 23 dB Frequency Response: ±0.2 dB from 20 Hz to 20 kHz. Noise: -108 dBm EIN from 20 Hz to 20 ktl z. Harmon1c p t s tort ton: less than 0.11 THD from 20 Hz to 20 kHz a t +30 dBm output Ltyp t calf y less than 0.02 Sat mfd-ba nd).",
+    "Source Impedance: 600 ohms or less, balanced or unbalanced. Input Impedances: Models with balanced t np u t: 5k ohms minimum.",
+    "8-l09A: 30k ohms.",
+    "8-1090: 4700 ohms.",
+    "p s.",
+    "Input levels: Oepend in9 on gain of particular model",
+    "and system cper-a t f nq levels. (Refer toga inspect t t c e t t cns above. ]"
+   ]
+  }
+ ]
+}

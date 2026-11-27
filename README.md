@@ -13,6 +13,167 @@ Ward-Beck Systems M471A, 1978|11. Wiki page: [M471A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 29 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1985 - M471A - P003 - 1-1.jpg](MANUALS/1985%20-%20M471A%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | dBm (ref. 600 ohm source} |
+| **Frequency response** | +/-0.25 dB from Signal |
+| **Noise ratio** | 83 dB. below +10 dBm. |
+| **Harmonic distortion** | Less than 25% THD from 20 kHz +28 dBm output Less than kHz outpul Hz less +28 dBm |
+| **Source impedance** | 600 ohms balanced. |
+| **Input impedance** | 500 ohms |
+| **Output impedance** | Less than 100 ohms (at outputs amplifiers only) 8-109B |
+| **Load impedance** | 600 ohms balanced |
+| **Output level** | dBm nominal +30 dBm maximum (at outputs 8-109B amplifiers only) |
+| **Phasing** | Input and output terminals designated Dy numbers are phase |
+| **Power requirements** | +/-25 volts dc, MA maximum. |
+| **Ambient temperature** | Dimensions: degrees Celsius wide high 6.5&quot; deep (41 Mm 178 Mm 165 mm } |
+
+## Circuit description
+
+From [1985 - M471A - Stereo Input Module (2).pdf](MANUALS/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20(2).pdf) pages 4-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M4?lA STEREO INPUT MODULE
+
+The M4 7 1A St......o Input Module i s designed to ace..pt s t e..eo line l eve 1 SOu &quot; Ce s. The unit p..ne.. s ses th.. inputs i g na las r-e Qu i....d and rout.. sit to th.. app..op.. iate points within the mixing console system.
+
+The input s..ct ion consists of the CHANNEL ON switch SW3, and the PHASE REVERSALs witch SW2, which.. ff.. cts only the.. ight inputs i g nal path. The channel ON condition is ind i cat..d by the ill u min a t ion oft h e CH ON switch pu shbu llOn when d ep&quot;essed, and sim ila.. l y the phase.. eve.. sed condition is indicated by t h.. Ill u min a ti on oft h e LED, DS I, located adjacent to SW2.
+
+FOllowing SW3, the signal i s brought out o f the module via edge connector pins 10, Land 11, M fo.. connection tot he inputs of a balanced s te r-eo fade r. The outputs oft h e fade.. are &quot; e turned to the module On pins 12, N and 13, P fo.. left and.. ight signals.. esp ectiv e ly. The inputs ide of the fade r also Se..v eS a s the pickup point fo.. the dual operational amplifier Z I which combines the left and right input signals and d.. ives the module internal p ref a d e bus. This bus i s also brought out to edge cc n n ecto rp ins Rand 14 fo.. fur the r assignment a&quot;..e Clu i..e d.
+
+8 _ 109 B BOOSTER AMPLIFIER
+
+The 8-10 9B Booster Amplifier operates with again of 18 dB and recover s the loss incu....ed when the fade.. isp laced i nits normal 15 dB &quot;in h and&quot; posit ion. Thee x t.. a 3 d B o f gain i s used too v e rcom e the 3 dB loss oft h e balance p o ten tiomete..&quot; at t h ei.. mid _p o s i ti o nth e..eb y maintaining the 0 dBm output levels.
+
+BALANCE AND MAIN OUTPUTS
+
+The outputs i gn a l of the 8 _ 10 98 amplif le.. is used to feed both left and right main outputs via the BALANCE &quot; witch SW7 and ganged BALANCE control RS through R8. I t alsop..ovides the feed fo.. dual
+
+operational amp l i fie r Z 2, which combines the left and right output
+
+signals and d &quot;;v est he module i nte..n alpo s tf &quot; d e bus. This bus is ·
+
+brought out toed g e connector pins U and 17 fo.. add i t io na lass i g n
+
+men t as..equi.. ed.
+
+**M47 1A STEREO INPUT MODULE**
+
+PRE/ POST SELECTOR SWITCHES AND LEVEL CONTROLS
+
+Sw ilCh SWg aCI,. a,. Ihe p.. e/pOll I &quot;1e&lt;;: 10.. for I he AUX I OUlpUI. w i l h ganged pOlenl iom eter RJ/ R4 eee r al'ng..,. I h e AUX, ' ev elm i&quot;, CO'&quot;I&quot;OI. SWB I s I hep..../ POSI seleclor lor theA UX 2 OUIPul. with g&quot;nged potenllome I.... R ' / R2 us~ &quot; S I he AUX 2 lev.. l m i &quot; contl&quot;Ol.
+
+Momen l.... y s wi l c h SW10 enables Ih e PFL outpu l slgn,,1 which is de r lved d l.. ec lly from Ihe module i n le.. n~1I p..eteee bus. This switCh alsop..ovl de san.. &quot;I..a set of con laC lS fo.. a PFL dc con l..o l wh l ch can be used 10 aCl iv ale e &quot; I er-n&quot; I.... lays, lamps, eiC.
+
+POWER SUPPLY DECOUPLiN G
+
+An aClive powe.. supply d ecoup ling net wo.. k consisting of 0 1 I h l&quot;Ou gh 06 p..ovid.. s.. hlgh de g.. eeo f I Sol a l lon belwe en I h e M47 1A and t h.. +/ _25 volt supply.. ails. Trans l sto.. s as and 06 se r-ve a s cu....en l monl to.. Sand will l lmil Ihe cu....en l flowing Ihl&quot;O ugh I h e se.. les pass t.. a n s l sto.. s 03 and 04 In the even I t h.. t e&quot;,ce ss ive p Ow.... supply d.... a nds should a,. i seas a.... su l l of component f.. ll u..e.
+
+WAR C · S ECI&lt;. SYSTEMS LT C.
+
+**MFG PART NUMBER**
+
+C&gt; Capacitor-22 uF /25 V PI'l:,liPS.26ETF22 C2 22 uF /25 V CJ 22 uF/2~ V C' 22 uF /25 V
+
+C, delete C7 delete C' delete C, Capacitor-68u F/ 10V TJ9OO686M0 10,&quot;,S COO 33 uF/ lO V T39OO336M010,&quot;,S
+
+CO&gt; 68 uF/ l 0V TJ900 686M 0 10AS CO2 33u F/ IOV T3900 336M0 10&quot;&quot;S CO2 68 uF/ I O V T3900686M010....S C&quot; 33u F/l0V T3900336M0 10....S cis 68 uF / l 0 V T3900686M0 10&quot;&quot;S
+
+33 uF /l 0 V
+
+CR' Diode on IN. OO3
+
+0&quot; L;O, R.o Fain:l'lild FLV 117 052 on ZFL-LEO-R
+
+0' Tr-an \li,UorNational PN3569 02 PN3645 OJ TIP296 O' TlPXlB 0' National PNl569 0' PN3645
+
+Rn Potentiomet er-. dual 0/ 8
+
+**&quot;,1I.71A. STEREO INPUT MODULE**
+
+'S) Potent iometer, qued AlB
+
+., ReSistor 1/ II.W sl
+
+R I S to
+
+.., Resistor l /II. W si,2&lt;
+
+delete Resistor l /II. W&quot;SI
+
+m 33.
+
+'53 33.
+
+'59 33&quot;
+
+**.OO 390**
+
+es 390
+
+.63 390
+
+• OO rs•
+
+eo, R es i,~tor l j4W&quot; 5%:;~ Phil; p s
+
+deleted e le te
+
+d e ie te
+
+delete &quot;, Resistor 1! 4W 5%
+
+**3W 5%**
+
+SWI delete
+
+SW2 Switch WBS 11_002 swa was 11_157 S&quot;, was 11-002
+
+SW10 WBS 11_003
+
+**MFG PART NUMBER**
+
+8P inOipSock et
+
+WBS recommends the use of replacement parts made by the specified
+
+manufacturers for continued optimum equip men t performance.
+
+**8 · 10 9 AMPLIFIER SERIES**
+
+The 8 -10 9 series of amplifiers are util t zed as an internal component within various WBS series of audio console modules. Each 8-109 amplifier mounts as a plu9-fn assembly onto the module motherboard.
+
+The 8-109 ampI ifier provfdes ana c t t vel y balanced output with a +30 dBm capability. It is employed as an output ora booster amplifier with either a balanced oran unbalanced 1nput.
+
+The following specifications apply tot he 8-109 series of amplifiers.
+
+Unit ~ 8-109 Balanced 15 dB 8-t09A Unbel anced 7 dB 8-1098 Balanced 18 dB 8-10ge Balanced 39 dB 8-1090 Unbalanced 29 dB 8-109E aaj aecec 29 dB 8-109F set ancee 33 dB 8-109G aal a oc e e 23 dB Frequency Response: ±0.2 dB from 20 Hz to 20 kHz. Noise: -108 dBm EIN from 20 Hz to 20 ktl z. Harmon1c p t s tort ton: less than 0.11 THD from 20 Hz to 20 kHz a t +30 dBm output Ltyp t calf y less than 0.02 Sat mfd-ba nd).
+
+Source Impedance: 600 ohms or less, balanced or unbalanced. Input Impedances: Models with balanced t np u t: 5k ohms minimum.
+
+8-l09A: 30k ohms.
+
+8-1090: 4700 ohms.
+
+p s.
+
+Input levels: Oepend in9 on gain of particular model
+
+and system cper-a t f nq levels. (Refer toga inspect t t c e t t cns above. ]
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
