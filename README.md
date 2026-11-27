@@ -1,17 +1,17 @@
-# M471A · Input Pre Amps
+# M471A Stereo Input Module · Input Pre Amps
 
 Ward-Beck Systems M471A, 1978|11. Wiki page: [M471A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M471A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 169 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 29 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 170 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 28 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -180,17 +180,8 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYnBnNW42Z1JsR1E/view?resourcekey=0-OfHs_GY5t3Nx2MV7ngk_cA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYnBnNW42Z1JsR1E&resourcekey=0-OfHs_GY5t3Nx2MV7ngk_cA" width="240" alt="1985 - M471A - 471-04-006 - STEREO INPUT MODULE.jpg"></a><br><sub>1985|18 · 471-04-006 - STEREO INPUT MODULE · <a href="MECHANICAL/1985%20-%20M471A%20-%20471-04-006%20-%20STEREO%20INPUT%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaHphdVoxa2oyWGc/view?resourcekey=0-slZANKRVrgnw6v21tCWzdQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaHphdVoxa2oyWGc&resourcekey=0-slZANKRVrgnw6v21tCWzdQ" width="240" alt="1985 - M471A - 471-04-007 - STEREO INPUT MODULE.jpg"></a><br><sub>1985|18 · 471-04-007 - STEREO INPUT MODULE · <a href="MECHANICAL/1985%20-%20M471A%20-%20471-04-007%20-%20STEREO%20INPUT%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZlI2M2ZEZnR3aFE/view?resourcekey=0-SEcbx0TDlUDlKntZVfArQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZlI2M2ZEZnR3aFE&resourcekey=0-SEcbx0TDlUDlKntZVfArQg" width="240" alt="1985 - M471A - 471-04-008 - ENG STEREO INPUT MODULE.jpg"></a><br><sub>1985|18 · 471-04-008 - ENG STEREO INPUT MODULE · <a href="MECHANICAL/1985%20-%20M471A%20-%20471-04-008%20-%20ENG%20STEREO%20INPUT%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1Kt3Oqf1Oet8lFtpRtUq8APb0th_FjPYO/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1Kt3Oqf1Oet8lFtpRtUq8APb0th_FjPYO" width="240" alt="19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE.jpg"></a><br><sub>19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1Kt3Oqf1Oet8lFtpRtUq8APb0th_FjPYO/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1Kt3Oqf1Oet8lFtpRtUq8APb0th_FjPYO" width="240" alt="19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE.jpg"></a><br><sub>19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE · <a href="MECHANICAL/19xx%20-%20M471A%20-%20DOC%20-%20471-04-006%20-%20STEREO%20INPUT%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M471A.stl`](MECHANICAL/M471A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M471A)
-
-- **Size:** 73.74 × 267.78 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 11 holes and cut-outs, 3 knobs (front panel: `MECHANICAL/M471A - front panel.svg`)
-- the drawn panel is 0.22 wide to high, the size 0.28: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M471A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -198,7 +189,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHVXUDFZRHBCNVk/view?resourcekey=0-BwBhCZarexgaYuYbwJt5Mg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHVXUDFZRHBCNVk&resourcekey=0-BwBhCZarexgaYuYbwJt5Mg" width="240" alt="1985 - M471A - 471-01-002 - CONTROL COMMON PRE POST.jpg"></a><br><sub>1985|18 · 471-01-002 - CONTROL COMMON PRE POST · <a href="SCHEMATICS/1985%20-%20M471A%20-%20471-01-002%20-%20CONTROL%20COMMON%20PRE%20POST%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMEpQWC1NdGZpODA/view?resourcekey=0-mb68Xmu-WvjCVSpWvHlMZg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMEpQWC1NdGZpODA&resourcekey=0-mb68Xmu-WvjCVSpWvHlMZg" width="240" alt="1985 - M471A - 471-02-002 - UNLESS SPELIFIEO OTHERWISE.jpg"></a><br><sub>1985|18 · 471-02-002 - UNLESS SPELIFIEO OTHERWISE · <a href="SCHEMATICS/1985%20-%20M471A%20-%20471-02-002%20-%20UNLESS%20SPELIFIEO%20OTHERWISE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZDBoaTdTeEMtOXc/view?resourcekey=0-6SN6Md8EeXedzSLEHn7EEw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZDBoaTdTeEMtOXc&resourcekey=0-6SN6Md8EeXedzSLEHn7EEw" width="240" alt="1985 - M471A - 471-06-002 - FINIS INPUT MODULE.jpg"></a><br><sub>1985|18 · 471-06-002 - FINIS INPUT MODULE · <a href="SCHEMATICS/1985%20-%20M471A%20-%20471-06-002%20-%20FINIS%20INPUT%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTFBhU2Rfb3o2YU0/view?resourcekey=0-pAYwNwl61-M25mVGcqeGyg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTFBhU2Rfb3o2YU0&resourcekey=0-pAYwNwl61-M25mVGcqeGyg" width="240" alt="1985 - M471A - 8-109-02-003 - ISSUEDATE REVISION.jpg"></a><br><sub>1985|18 · 8-109-02-003 - ISSUEDATE REVISION · <a href="SCHEMATICS/1985%20-%20M471A%20-%208-109-02-003%20-%20ISSUEDATE%20REVISION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcXVrVFJidkVERjg/view?resourcekey=0-WmAd8EaTDuXm1BTB6RsPUQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcXVrVFJidkVERjg&resourcekey=0-WmAd8EaTDuXm1BTB6RsPUQ" width="240" alt="1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1985|18 · 8-109-06-003 - BOOSTER AMPLIFIER · <a href="SCHEMATICS/1985%20-%20M471A%20-%208-109-06-003%20-%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcXVrVFJidkVERjg/view?resourcekey=0-WmAd8EaTDuXm1BTB6RsPUQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcXVrVFJidkVERjg&resourcekey=0-WmAd8EaTDuXm1BTB6RsPUQ" width="240" alt="1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1985|18 · 8-109-06-003 - BOOSTER AMPLIFIER · <a href="SCHEMATICS/1985%20-%20M471A%20-%208-109-06-003%20-%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1978 - 8-109-02-003 - 8-109B BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`
@@ -252,6 +243,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1985 - M471A - Stereo Input Module p20.kicad_sch](KICAD/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p20.kicad_sch)
 - [1985 - M471A - Stereo Input Module p22.kicad_sch](KICAD/1985%20-%20M471A%20-%20Stereo%20Input%20Module%20p22.kicad_sch)
 - [M471A.kicad_sym](KICAD/M471A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
