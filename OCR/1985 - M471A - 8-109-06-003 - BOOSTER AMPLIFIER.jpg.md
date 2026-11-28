@@ -1,5 +1,5 @@
 # 1985 - M471A - 8-109-06-003 - BOOSTER AMPLIFIER.jpg
-Wiki page: [M471A](../../../../PAGES/M471A.md)
+Wiki page: [M471A](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

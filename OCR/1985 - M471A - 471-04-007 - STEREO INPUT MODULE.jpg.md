@@ -1,5 +1,5 @@
 # 1985 - M471A - 471-04-007 - STEREO INPUT MODULE.jpg
-Wiki page: [M471A](../../../../PAGES/M471A.md)
+Wiki page: [M471A](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

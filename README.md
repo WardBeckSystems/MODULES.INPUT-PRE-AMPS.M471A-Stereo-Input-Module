@@ -1,6 +1,6 @@
 # M471A Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M471A, 1978|11. Wiki page: [M471A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M471A.html)
+Ward-Beck Systems M471A, 1978|11. Wiki page: [M471A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471A-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
